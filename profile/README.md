@@ -7,7 +7,7 @@
 ### Disposição das disciplinas
 
 <table border="1">
-   <tr> <td colspan="3" align="center">1° Semetre</td> </tr>
+   <tr> <td colspan="3" align="center"> <i>1° Semestre </i></td> </tr>
    <tr> <td>Disciplina</td> <td>CH</td> <td align="center"> Nota Final</td>  </tr>
    <tr> <td>ALGORITMOS E PROGRAMAÇÃO ESTRUTURADA</td> <td align="center"> 80</td>  <td align="center"> 10</td> </tr>
    <tr> <td>ANÁLISE E MODELAGEM DE SISTEMAS</td> <td align="center">80</td> <td align="center"> 10</td> </tr>
