@@ -1,6 +1,6 @@
-# Engenharia de Software - UNOPAR
+# Engenharia de Software - UNOPAR 🙋‍♀️
 
-- Organização criada para armazenar codificações e relátorio des unddes curriculares do bacharel em __Engenharia de Software.__
+- Organização criada para armazenar codificações e relátorio das unidades curriculares do bacharel em __Engenharia de Software__, este bacharel é ofertado na modalidade de ensino a distância, neste caso expecifíco pelo polo de Maravilha/SC.
 
 <!--
 
