@@ -6,8 +6,8 @@
 
 ### Disposição das disciplinas
 
-<table>
-   <tr> 1° Semetre </tr>
+<table border="1">
+   <tr> <td colspan="2">1° Semetre</td> </tr>
    <tr> <td>Disciplina</td> <td>CH</td>  </tr>
    <tr> <td>ALGORITMOS E PROGRAMAÇÃO ESTRUTURADA</td> <td>80</td>  </tr>
    <tr> <td>ANÁLISE E MODELAGEM DE SISTEMAS</td> <td>80</td>  </tr>
