@@ -6,3 +6,7 @@
 
 ### Disposição das disciplinas
 * Disponibilizo a [Matriz Curricular do bacharelado](Matriz curi. - ENG software.pdf)
+
+
+### Trilha e carreira
+- [x] IoT
