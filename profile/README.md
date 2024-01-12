@@ -1,4 +1,6 @@
-## Hi there 👋
+# Engenharia de Software - UNOPAR
+
+- Organização criada para armazenar codificações e relátorio des unddes curriculares do bacharel em __Engenharia de Software.__
 
 <!--
 
