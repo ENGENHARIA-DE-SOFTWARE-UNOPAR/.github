@@ -8,14 +8,14 @@
 
 <table border="1">
    <tr> <td colspan="3" align="center">1° Semetre</td> </tr>
-   <tr> <td>Disciplina</td> <td>CH</td> <td> Nota Final</td>  </tr>
-   <tr> <td>ALGORITMOS E PROGRAMAÇÃO ESTRUTURADA</td> <td align="center"> 80</td>  </tr>
-   <tr> <td>ANÁLISE E MODELAGEM DE SISTEMAS</td> <td align="center">80</td>  </tr>
-   <tr> <td>ENGENHARIA DE SOFTWARE</td> <td align="center">80</td>  </tr>
-   <tr> <td>LINGUAGEM DE PROGRAMAÇÃO</td> <td align="center">80</td>  </tr>
-   <tr> <td>LÓGICA COMPUTACIONAL</td> <td align="center">80</td>  </tr>
-   <tr> <td>SISTEMAS OPERACIONAIS</td> <td align="center">80</td>  </tr>
-    <tr> <td align="right">Total CH</td> <td align="center">480</td>  </tr>
+   <tr> <td>Disciplina</td> <td>CH</td> <td align="center"> Nota Final</td>  </tr>
+   <tr> <td>ALGORITMOS E PROGRAMAÇÃO ESTRUTURADA</td> <td align="center"> 80</td>  <td align="center"> 10</td> </tr>
+   <tr> <td>ANÁLISE E MODELAGEM DE SISTEMAS</td> <td align="center">80</td> <td align="center"> 10</td> </tr>
+   <tr> <td>ENGENHARIA DE SOFTWARE</td> <td align="center">80</td> <td align="center"> 10</td> </tr>
+   <tr> <td>LINGUAGEM DE PROGRAMAÇÃO</td> <td align="center">80</td> <td align="center"> 10</td> </tr>
+   <tr> <td>LÓGICA COMPUTACIONAL</td> <td align="center">80</td> <td align="center"> 10</td> </tr>
+   <tr> <td>SISTEMAS OPERACIONAIS</td> <td align="center">80</td> <td align="center"> 10</td> </tr>
+    <tr> <td align="right">Total CH</td> <td align="center">480</td> <td align="center"> 10</td> </tr>
 </table>
 
 
