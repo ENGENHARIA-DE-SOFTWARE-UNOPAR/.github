@@ -5,7 +5,7 @@
  
 
 ### Disposição das disciplinas
-* Disponibilizo a [Matriz Curricular do bacharelado](Matriz curi. - ENG software.pdf)
+* Disponibilizo a [Matriz Curricular do bacharelado](https://github.com/ENGENHARIA-DE-SOFTWARE-UNOPAR/.github/blob/main/profile/Matriz%20curi.%20-%20ENG%20software.pdf)
 
 
 ### Trilha e carreira
