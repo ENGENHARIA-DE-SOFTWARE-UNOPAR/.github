@@ -5,6 +5,16 @@
  
 
 ### Disposição das disciplinas
+
+<table>
+   <tr> 1° Semetre</tr>
+   <tr> <td>Disciplina</td> <td>CH</td>  </tr>
+
+
+   
+</table>
+
+
 *1º Semestre*
 Disciplina | CH
 :------ | :------:
