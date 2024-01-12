@@ -5,6 +5,12 @@
  
 
 ### Disposição das disciplinas
+*1º Semestre*
+Disciplina | CH
+:------ | :------:
+ALgoritimo e Programação Estrututada | 80
+
+
 * Disponibilizo a [Matriz Curricular do bacharelado](https://github.com/ENGENHARIA-DE-SOFTWARE-UNOPAR/.github/blob/main/profile/Matriz%20curi.%20-%20ENG%20software.pdf)
 
 
