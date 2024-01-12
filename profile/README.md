@@ -15,7 +15,7 @@
    <tr> <td>LINGUAGEM DE PROGRAMAÇÃO</td> <td>80</td>  </tr>
    <tr> <td>LÓGICA COMPUTACIONAL</td> <td>80</td>  </tr>
    <tr> <td>SISTEMAS OPERACIONAIS</td> <td>80</td>  </tr>
-    <tr> <td>Total CH</td> <td>480</td>  </tr>
+    <tr> <td align="center">Total CH</td> <td>480</td>  </tr>
 </table>
 
 
