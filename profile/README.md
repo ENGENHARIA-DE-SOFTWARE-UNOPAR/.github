@@ -44,6 +44,14 @@
    <tr> <td> SEGURANÇA E AUDITORIA DE SISTEMAS </td> <td align="center">80</td> <td align="center"> FALTA CURSAR </td> </tr>
    <tr> <td align="right">Total CH </td> <td clospan="2" align="center">510 </td> </tr>
 
+<tr> <td colspan="3" align="center"> <i>5° Semestre </i> </td> </tr>
+   <tr> <td> FRAMEWORKS PARA DESENVOLVIMENTO DE SOFTWARE </td> <td align="center">60</td> <td align="center"> FALTA CURSAR </td> </tr>
+   <tr> <td> GERENCIAMENTO E QUALIDADE DE SOFTWARE </td> <td align="center">80</td> <td align="center"> FALTA CURSAR </td> </tr>
+   <tr> <td> IMPLEMENTAÇÃO DE PROJETO WEB </td> <td align="center">60</td> <td align="center"> FALTA CURSAR </td> </tr>
+   <tr> <td> INFRAESTRUTURA ÁGIL </td> <td align="center">60</td> <td align="center"> FALTA CURSAR </td> </tr>
+   <tr> <td> OPTATIVA I </td> <td align="center">60</td> <td align="center"> FALTA CURSAR </td> </tr>
+   <tr> <td align="right">Total CH </td> <td clospan="2" align="center"> 320 </td> </tr>
+
 </table>
 
 
