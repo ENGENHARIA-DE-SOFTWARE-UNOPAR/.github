@@ -15,10 +15,11 @@
    <tr> <td>LINGUAGEM DE PROGRAMAÇÃO</td> <td align="center">80</td> <td align="center"> 10</td> </tr>
    <tr> <td>LÓGICA COMPUTACIONAL</td> <td align="center">80</td> <td align="center"> 10</td> </tr>
    <tr> <td>SISTEMAS OPERACIONAIS</td> <td align="center">80</td> <td align="center"> 10</td> </tr>
-   <tr> <td align="right">Total CH</td> <td align="center">480</td> <td align="center"> 10</td> ANÁLISE ORIENTADA A OBJETOS </td>  <td align="center">80</td>   </tr>
+   <tr> <td align="right">Total CH</td> <td align="center">480</td> <td align="center"> 10</td> 
+   </tr>
 
    <tr> <td colspan="3" align="center"> <i>2° Semestre </i> </td> </tr>
-   <tr> <td> A </td> </tr>
+   <tr> <td> ANÁLISE ORIENTADA A OBJETOS </td> <td>80</td> </tr>
 </table>
 
 
