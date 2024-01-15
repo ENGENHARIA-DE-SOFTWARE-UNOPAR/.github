@@ -68,7 +68,7 @@
    <tr> <td> ENGENHARIA, CIÊNCIA E TECNOLOGIA</td> <td align="center">80</td> <td align="center"> FALTA CURSAR </td> </tr>
    <tr> <td> REDES E SISTEMAS DISTRIBUÍDOS </td> <td align="center">80</td> <td align="center"> FALTA CURSAR </td> </tr>
    <tr> <td> SOCIEDADE BRASILEIRA E CIDADANIA </td> <td align="center">60</td> <td align="center"> FALTA CURSAR </td> </tr>
-   <tr> <td align="right">Total CH </td> <td rowspan="2" align="center">420 </td> </tr>
+   <tr> <td align="right">Total CH </td> <td colspan="2" align="center">420 </td> </tr>
 </table>
 
 
