@@ -32,7 +32,7 @@
    <tr> <td> INTERFACE E USABILIDADE </td> <td align="center">80</td> <td align="center"> 9,9 </td> </tr>
    <tr> <td> <a href="https://github.com/ENGENHARIA-DE-SOFTWARE-UNOPAR/gerenciaBanco" target="_blank"> LINGUAGEM ORIENTADA A OBJETOS </a> </td> <td align="center">80</td> <td align="center"> 10 </td> </tr>
    <tr> <td> <a href="https://github.com/ENGENHARIA-DE-SOFTWARE-UNOPAR/database_and_data_development" target="_blank"> PROGRAMAÇÃO E DESENVOLVIMENTO DE BANCO DE DADOS </a> </td> <td align="center">60</td> <td align="center"> 10 </td> </tr>
-   <tr> <td> TÉCNICAS DE INTELIGÊNCIA ARTIFICIAL </td> <td align="center">60</td> <td align="center"> 10 </td> </tr>
+   <tr> <td> <a href="https://github.com/ENGENHARIA-DE-SOFTWARE-UNOPAR/neuralPerceptron" target="_blank"> TÉCNICAS DE INTELIGÊNCIA ARTIFICIAL </a> </td> <td align="center">60</td> <td align="center"> 10 </td> </tr>
    <tr> <td align="right">Total CH </td> <td colspan="2" align="center">420 </td> </tr>
 
 <tr> <td colspan="3" align="center"> <i>4° Semestre </i> </td> </tr>
@@ -69,6 +69,9 @@
    <tr> <td> REDES E SISTEMAS DISTRIBUÍDOS </td> <td align="center">80</td> <td align="center"> FALTA CURSAR </td> </tr>
    <tr> <td> SOCIEDADE BRASILEIRA E CIDADANIA </td> <td align="center">60</td> <td align="center"> FALTA CURSAR </td> </tr>
    <tr> <td align="right">Total CH </td> <td colspan="2" align="center">420 </td> </tr>
+
+
+<tr> <td colspan="3"> <a href="https://github.com/ENGENHARIA-DE-SOFTWARE-UNOPAR/Template-UNOPAR" target="_blank"> Template em LaTeX para relatórios das aulas práticas </td> </tr>
 </table>
 
 
