@@ -52,6 +52,15 @@
    <tr> <td> OPTATIVA I </td> <td align="center">60</td> <td align="center"> FALTA CURSAR </td> </tr>
    <tr> <td align="right">Total CH </td> <td clospan="2" align="center"> 320 </td> </tr>
 
+<tr> <td colspan="3" align="center"> <i>6° Semestre </i> </td> </tr>
+   <tr> <td> DESENVOLVIMENTO DE E-COMMERCE COM CMS </td> <td align="center">80</td> <td align="center"> FALTA CURSAR </td> </tr>
+   <tr> <td> DESENVOLVIMENTO MOBILE </td> <td align="center">80</td> <td align="center"> FALTA CURSAR </td> </tr>
+   <tr> <td> OPTATIVA II </td> <td align="center">60</td> <td align="center"> FALTA CURSAR </td> </tr>
+   <tr> <td> PROJETO DE EXTENSÃO II - ENGENHARIA DE SOFTWARE </td> <td align="center">130</td> <td align="center"> FALTA CURSAR </td> </tr>
+   <tr> <td> SEGURANÇA EM ENGENHARIA DE SOFTWARE </td> <td align="center">80</td> <td align="center"> FALTA CURSAR </td> </tr>
+   <tr> <td> TESTES E MANUTENÇÃO DE SOFTWARE </td> <td align="center">80</td> <td align="center"> FALTA CURSAR </td> </tr>
+   <tr> <td align="right">Total CH </td> <td clospan="2" align="center">510 </td> </tr>
+
 </table>
 
 
