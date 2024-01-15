@@ -15,7 +15,7 @@
    <tr> <td>LINGUAGEM DE PROGRAMAÇÃO</td> <td align="center">80</td> <td align="center"> 10</td> </tr>
    <tr> <td>LÓGICA COMPUTACIONAL</td> <td align="center">80</td> <td align="center"> 10</td> </tr>
    <tr> <td>SISTEMAS OPERACIONAIS</td> <td align="center">80</td> <td align="center"> 10</td> </tr>
-   <tr> <td align="right">Total CH</td> <td clospan="2" align="center">480</td>   </tr>
+   <tr> <td align="right">Total CH</td> <td colspan="2" align="center">480</td>   </tr>
 
    <tr> <td colspan="3" align="center"> <i>2° Semestre </i> </td> </tr>
    <tr> <td> ANÁLISE ORIENTADA A OBJETOS </td> <td align="center">80</td> <td align="center"> 10 </td> </tr>
@@ -24,7 +24,7 @@
    <tr> <td> MODELAGEM DE DADOS </td> <td align="center">80</td> <td align="center"> 9,0 </td> </tr>
    <tr> <td> MÉTODOS MATEMÁTICOS </td> <td align="center">60</td> <td align="center"> 10 </td> </tr>
    <tr> <td> SISTEMAS DE COMPUTAÇÃO E DE INFORMAÇÃO </td> <td align="center">80</td> <td align="center"> 9,5 </td> </tr>
-   <tr> <td align="right">Total CH </td> <td clospan="2" align="center">460 </td> </tr>
+   <tr> <td align="right">Total CH </td> <td colspan="2" align="center">460 </td> </tr>
 
 <tr> <td colspan="3" align="center"> <i>3° Semestre </i> </td> </tr>
    <tr> <td> COMPUTAÇÃO EM NUVEM </td> <td align="center">80</td> <td align="center"> 10 </td> </tr>
@@ -33,7 +33,7 @@
    <tr> <td> LINGUAGEM ORIENTADA A OBJETOS </td> <td align="center">80</td> <td align="center"> 10 </td> </tr>
    <tr> <td> PROGRAMAÇÃO E DESENVOLVIMENTO DE BANCO DE DADOS </td> <td align="center">60</td> <td align="center"> 10 </td> </tr>
    <tr> <td> TÉCNICAS DE INTELIGÊNCIA ARTIFICIAL </td> <td align="center">60</td> <td align="center"> 10 </td> </tr>
-   <tr> <td align="right">Total CH </td> <td clospan="2" align="center">420 </td> </tr>
+   <tr> <td align="right">Total CH </td> <td colspan="2" align="center">420 </td> </tr>
 
 <tr> <td colspan="3" align="center"> <i>4° Semestre </i> </td> </tr>
    <tr> <td> ARQUITETURA DE SOFTWARE </td> <td align="center">80</td> <td align="center"> FALTA CURSAR </td> </tr>
@@ -42,7 +42,7 @@
    <tr> <td> PROJETO DE EXTENSÃO I - ENGENHARIA DE SOFTWARE </td> <td align="center">130</td> <td align="center"> FALTA CURSAR </td> </tr>
    <tr> <td> PROJETO DE SOFTWARE </td> <td align="center">80</td> <td align="center"> FALTA CURSAR </td> </tr>
    <tr> <td> SEGURANÇA E AUDITORIA DE SISTEMAS </td> <td align="center">80</td> <td align="center"> FALTA CURSAR </td> </tr>
-   <tr> <td align="right">Total CH </td> <td clospan="2" align="center">510 </td> </tr>
+   <tr> <td align="right">Total CH </td> <td colspan="2" align="center">510 </td> </tr>
 
 <tr> <td colspan="3" align="center"> <i>5° Semestre </i> </td> </tr>
    <tr> <td> FRAMEWORKS PARA DESENVOLVIMENTO DE SOFTWARE </td> <td align="center">60</td> <td align="center"> FALTA CURSAR </td> </tr>
@@ -50,7 +50,7 @@
    <tr> <td> IMPLEMENTAÇÃO DE PROJETO WEB </td> <td align="center">60</td> <td align="center"> FALTA CURSAR </td> </tr>
    <tr> <td> INFRAESTRUTURA ÁGIL </td> <td align="center">60</td> <td align="center"> FALTA CURSAR </td> </tr>
    <tr> <td> OPTATIVA I </td> <td align="center">60</td> <td align="center"> FALTA CURSAR </td> </tr>
-   <tr> <td align="right">Total CH </td> <td clospan="2" align="center"> 320 </td> </tr>
+   <tr> <td align="right">Total CH </td> <td colspan="2" align="center"> 320 </td> </tr>
 
 <tr> <td colspan="3" align="center"> <i>6° Semestre </i> </td> </tr>
    <tr> <td> DESENVOLVIMENTO DE E-COMMERCE COM CMS </td> <td align="center">80</td> <td align="center"> FALTA CURSAR </td> </tr>
@@ -59,7 +59,7 @@
    <tr> <td> PROJETO DE EXTENSÃO II - ENGENHARIA DE SOFTWARE </td> <td align="center">130</td> <td align="center"> FALTA CURSAR </td> </tr>
    <tr> <td> SEGURANÇA EM ENGENHARIA DE SOFTWARE </td> <td align="center">80</td> <td align="center"> FALTA CURSAR </td> </tr>
    <tr> <td> TESTES E MANUTENÇÃO DE SOFTWARE </td> <td align="center">80</td> <td align="center"> FALTA CURSAR </td> </tr>
-   <tr> <td align="right">Total CH </td> <td clospan="2" align="center">510 </td> </tr>
+   <tr> <td align="right">Total CH </td> <td colspan="2" align="center">510 </td> </tr>
 
 <tr> <td colspan="3" align="center"> <i>7° Semestre </i> </td> </tr>
    <tr> <td> ARQUITETURA E ORGANIZAÇÃO DE COMPUTADORES </td> <td align="center">60</td> <td align="center"> FALTA CURSAR </td> </tr>
