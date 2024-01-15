@@ -61,6 +61,14 @@
    <tr> <td> TESTES E MANUTENÇÃO DE SOFTWARE </td> <td align="center">80</td> <td align="center"> FALTA CURSAR </td> </tr>
    <tr> <td align="right">Total CH </td> <td clospan="2" align="center">510 </td> </tr>
 
+<tr> <td colspan="3" align="center"> <i>7° Semestre </i> </td> </tr>
+   <tr> <td> ARQUITETURA E ORGANIZAÇÃO DE COMPUTADORES </td> <td align="center">60</td> <td align="center"> FALTA CURSAR </td> </tr>
+   <tr> <td> DIREITO CIBERNÉTICO </td> <td align="center">80</td> <td align="center"> FALTA CURSAR </td> </tr>
+   <tr> <td> EMPREENDEDORISMO E INOVAÇÃO </td> <td align="center">60</td> <td align="center"> FALTA CURSAR </td> </tr>
+   <tr> <td> ENGENHARIA, CIÊNCIA E TECNOLOGIA</td> <td align="center">80</td> <td align="center"> FALTA CURSAR </td> </tr>
+   <tr> <td> REDES E SISTEMAS DISTRIBUÍDOS </td> <td align="center">80</td> <td align="center"> FALTA CURSAR </td> </tr>
+   <tr> <td> SOCIEDADE BRASILEIRA E CIDADANIA </td> <td align="center">60</td> <td align="center"> FALTA CURSAR </td> </tr>
+   <tr> <td align="right">Total CH </td> <td clospan="2" align="center">420 </td> </tr>
 </table>
 
 
