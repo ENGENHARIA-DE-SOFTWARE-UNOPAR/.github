@@ -18,13 +18,15 @@
    <tr> <td align="right">Total CH</td> <td clospan="2" align="center">480</td>   </tr>
 
    <tr> <td colspan="3" align="center"> <i>2° Semestre </i> </td> </tr>
-   <tr> <td> ANÁLISE ORIENTADA A OBJETOS </td> <td align="center">80</td> <td align="center"> -- </td> </tr>
-   <tr> <td> ENGENHARIA DE REQUISITOS </td> <td align="center">80</td> <td align="center"> -- </td> </tr>
-   <tr> <td> FUNDAMENTOS DE CÁLCULO APLICADO </td> <td align="center">80</td> <td align="center"> -- </td> </tr>
-   <tr> <td> MODELAGEM DE DADOS </td> <td align="center">80</td> <td align="center"> -- </td> </tr>
-   <tr> <td> MÉTODOS MATEMÁTICOS </td> <td align="center">60</td> <td align="center"> -- </td> </tr>
-   <tr> <td> SISTEMAS DE COMPUTAÇÃO E DE INFORMAÇÃO </td> <td align="center">80</td> <td align="center"> -- </td> </tr>
-   <tr> <td align="right">Total CH </td> <td align="center">460 </td> </tr>
+   <tr> <td> ANÁLISE ORIENTADA A OBJETOS </td> <td align="center">80</td> <td align="center"> 10 </td> </tr>
+   <tr> <td> ENGENHARIA DE REQUISITOS </td> <td align="center">80</td> <td align="center"> 8,5 </td> </tr>
+   <tr> <td> FUNDAMENTOS DE CÁLCULO APLICADO </td> <td align="center">80</td> <td align="center"> 9,9 </td> </tr>
+   <tr> <td> MODELAGEM DE DADOS </td> <td align="center">80</td> <td align="center"> 9,0 </td> </tr>
+   <tr> <td> MÉTODOS MATEMÁTICOS </td> <td align="center">60</td> <td align="center"> 10 </td> </tr>
+   <tr> <td> SISTEMAS DE COMPUTAÇÃO E DE INFORMAÇÃO </td> <td align="center">80</td> <td align="center"> 9,5 </td> </tr>
+   <tr> <td align="right">Total CH </td> <td clospan="2" align="center">460 </td> </tr>
+
+
 </table>
 
 
