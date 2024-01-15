@@ -38,7 +38,7 @@
 <tr> <td colspan="3" align="center"> <i>4° Semestre </i> </td> </tr>
    <tr> <td> ARQUITETURA DE SOFTWARE </td> <td align="center">80</td> <td align="center"> FALTA CURSAR </td> </tr>
    <tr> <td> BANCOS DE DADOS NÃO RELACIONAIS </td> <td align="center">60</td> <td align="center"> FALTA CURSAR </td> </tr>
-   <tr> <td> PROGRAMAÇÃO WEB </td> <td align="center">80</td> <td align="center"> FALTA CURSAR </td> </tr>
+   <tr> <td> <a href="https://github.com/ENGENHARIA-DE-SOFTWARE-UNOPAR/web-project" target="_blank"> PROGRAMAÇÃO WEB </a> </td> <td align="center">80</td> <td align="center"> FALTA CURSAR </td> </tr>
    <tr> <td> PROJETO DE EXTENSÃO I - ENGENHARIA DE SOFTWARE </td> <td align="center">130</td> <td align="center"> FALTA CURSAR </td> </tr>
    <tr> <td> PROJETO DE SOFTWARE </td> <td align="center">80</td> <td align="center"> FALTA CURSAR </td> </tr>
    <tr> <td> SEGURANÇA E AUDITORIA DE SISTEMAS </td> <td align="center">80</td> <td align="center"> FALTA CURSAR </td> </tr>
