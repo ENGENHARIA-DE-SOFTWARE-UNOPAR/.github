@@ -71,7 +71,7 @@
    <tr> <td align="right">Total CH </td> <td colspan="2" align="center">420 </td> </tr>
 
 
-<tr> <td colspan="3"> <a href="https://github.com/ENGENHARIA-DE-SOFTWARE-UNOPAR/Template-UNOPAR" target="_blank"> Template em LaTeX para relatórios das aulas práticas </td> </tr>
+<tr> <td colspan="3" align="center"> <a href="https://github.com/ENGENHARIA-DE-SOFTWARE-UNOPAR/Template-UNOPAR" target="_blank"> Template em LaTeX para relatórios das aulas práticas </td> </tr>
 </table>
 
 
