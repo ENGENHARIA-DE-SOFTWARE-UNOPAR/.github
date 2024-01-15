@@ -26,6 +26,14 @@
    <tr> <td> SISTEMAS DE COMPUTAÇÃO E DE INFORMAÇÃO </td> <td align="center">80</td> <td align="center"> 9,5 </td> </tr>
    <tr> <td align="right">Total CH </td> <td clospan="2" align="center">460 </td> </tr>
 
+<tr> <td colspan="3" align="center"> <i>3° Semestre </i> </td> </tr>
+   <tr> <td> COMPUTAÇÃO EM NUVEM </td> <td align="center">80</td> <td align="center">  </td> </tr>
+   <tr> <td> GOVERNANÇA DE TECNOLOGIA DA INFORMAÇÃO </td> <td align="center">80</td> <td align="center">  </td> </tr>
+   <tr> <td> INTERFACE E USABILIDADE </td> <td align="center">80</td> <td align="center">  </td> </tr>
+   <tr> <td> LINGUAGEM ORIENTADA A OBJETOS </td> <td align="center">80</td> <td align="center">  </td> </tr>
+   <tr> <td> PROGRAMAÇÃO E DESENVOLVIMENTO DE BANCO DE DADOS </td> <td align="center">60</td> <td align="center">  </td> </tr>
+   <tr> <td> TÉCNICAS DE INTELIGÊNCIA ARTIFICIAL </td> <td align="center">60</td> <td align="center">  </td> </tr>
+   <tr> <td align="right">Total CH </td> <td clospan="2" align="center">420 </td> </tr>
 
 </table>
 
