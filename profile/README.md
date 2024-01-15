@@ -18,7 +18,7 @@
    <tr> <td align="right">Total CH</td> <td clospan="2" align="center">480</td>   </tr>
 
    <tr> <td colspan="3" align="center"> <i>2° Semestre </i> </td> </tr>
-   <tr> <td> ANÁLISE ORIENTADA A OBJETOS </td> <td>80</td> </tr>
+   <tr> <td> ANÁLISE ORIENTADA A OBJETOS </td> <td align="center">80</td> <td align="center"> -- </td> </tr>
 </table>
 
 
