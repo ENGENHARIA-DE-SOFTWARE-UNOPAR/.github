@@ -79,7 +79,11 @@
 * Disponibilizo a [Matriz Curricular do bacharelado](https://github.com/ENGENHARIA-DE-SOFTWARE-UNOPAR/.github/blob/main/profile/Matriz%20curi.%20-%20ENG%20software.pdf)
 
 
-### Trilha e carreira 
+### <a href="https://blog.unopar.com.br/trilhas-de-carreira/#Conheca_as_Trilhas_de_Carreira"> Trilha e carreira </a>
+
+<p> São atividades extracurriculares não obrigatórias disponibilizadas no AVA para o aluno desenvolver habilidades complementares e se tornar o profissional que o mercado procura. </p>
+
+
 - [x] IoT e Programação de sensores 30horas </br>
-- [x] Análise de dados comPython 40Horas </br>
+- [x] Análise de dados com Python 40Horas </br>
 - [x] Processo da criatividade 60Horas </br>
