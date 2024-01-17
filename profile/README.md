@@ -87,5 +87,5 @@
 - [x] IoT e Programação de sensores 30 Horas </br>
 - [x] Análise de dados com Python 40 Horas </br>
 - [x] Processo da criatividade 60 Horas </br>
-- [x] Gestão de projetos 120 Horas </br>
+- [x] <a href="https://drive.google.com/file/d/1eH21zc3ljxnA2AaMgr7JGffvX7LefHNy/view?usp=sharing"> Gestão de projetos </a> 120 Horas </br>
 - [x] Empreendedorismo e Inovação 120 Horas </br>
