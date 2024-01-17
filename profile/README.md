@@ -84,6 +84,8 @@
 <p align="justify"> São atividades extracurriculares não obrigatórias disponibilizadas no AVA para o aluno desenvolver habilidades complementares e se tornar o profissional que o mercado procura. </p>
 
 
-- [x] IoT e Programação de sensores 30horas </br>
-- [x] Análise de dados com Python 40Horas </br>
-- [x] Processo da criatividade 60Horas </br>
+- [x] IoT e Programação de sensores 30 Horas </br>
+- [x] Análise de dados com Python 40 Horas </br>
+- [x] Processo da criatividade 60 Horas </br>
+- [x] Gestão de projetos 120 Horas </br>
+- [x] Empreendedorismo e Inovação 120 Horas </br>
