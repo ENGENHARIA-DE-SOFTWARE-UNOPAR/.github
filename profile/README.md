@@ -80,6 +80,6 @@
 
 
 <h3> Trilha e carreira </h3>
-- [x] IoT e Programação de sensores 30horas
-- [x] Análise de dados comPython 40Horas
-- [x] Processo da criatividade 60Horas
+- [x] IoT e Programação de sensores 30horas </br>
+- [x] Análise de dados comPython 40Horas </br>
+- [x] Processo da criatividade 60Horas </br>
