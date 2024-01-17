@@ -79,7 +79,7 @@
 * Disponibilizo a [Matriz Curricular do bacharelado](https://github.com/ENGENHARIA-DE-SOFTWARE-UNOPAR/.github/blob/main/profile/Matriz%20curi.%20-%20ENG%20software.pdf)
 
 
-<h3> Trilha e carreira </h3>
+### Trilha e carreira 
 - [x] IoT e Programação de sensores 30horas </br>
 - [x] Análise de dados comPython 40Horas </br>
 - [x] Processo da criatividade 60Horas </br>
