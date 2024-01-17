@@ -81,7 +81,7 @@
 
 ### <a href="https://blog.unopar.com.br/trilhas-de-carreira/#Conheca_as_Trilhas_de_Carreira"> Trilha e carreira </a>
 
-<p> São atividades extracurriculares não obrigatórias disponibilizadas no AVA para o aluno desenvolver habilidades complementares e se tornar o profissional que o mercado procura. </p>
+<p align="center"> São atividades extracurriculares não obrigatórias disponibilizadas no AVA para o aluno desenvolver habilidades complementares e se tornar o profissional que o mercado procura. </p>
 
 
 - [x] IoT e Programação de sensores 30horas </br>
