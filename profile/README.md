@@ -1,7 +1,7 @@
 # Engenharia de Software - UNOPAR 🙋‍♀️
 
-- Organização criada para armazenar codificações e relátorio das unidades curriculares do bacharelado em __Engenharia de Software__, este bacharel é ofertado na modalidade de ensino a distância, neste caso expecifíco pelo polo de Maravilha/SC. 🧙
-   - Algumas Disciplinas não possuem aulas práticas, portanto não terão repositórios.
+- Organização criada para armazenar codificações e relátorio das unidades curriculares do bacharelado em __Engenharia de Software__, este bacharelado é ofertado na modalidade de ensino a distância(EAD), neste caso expecifíco pelo polo de Maravilha/SC. 🧙
+   - Algumas Disciplinas não possuem aulas práticas, portanto não terão repositórios. Pertinentes ao @OgliariNatan
  
 
 ### Disposição das disciplinas
