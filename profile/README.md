@@ -2,7 +2,7 @@
 
 - Organização criada para armazenar codificações e relátorio das unidades curriculares do bacharelado em __Engenharia de Software__, este bacharelado é ofertado na modalidade de ensino a distância(EAD), neste caso expecifíco pelo polo de Maravilha/SC. 🧙
    - Algumas Disciplinas não possuem aulas práticas, portanto não terão repositórios. Pertinentes ao <a href="https://github.com/ogliarinatan"> @OgliariNatan </a>
- 
+
 
 ### Disposição das disciplinas
 
@@ -27,7 +27,7 @@
    <tr> <td align="right">Total CH </td> <td colspan="2" align="center">460 </td> </tr>
 
 <tr> <td colspan="3" align="center"> <i>3° Semestre </i> </td> </tr>
-   <tr> <td> <a href="https://github.com/ENGENHARIA-DE-SOFTWARE-UNOPAR/Computacao-em-nuvem-UNOPAR" target="_blank"> COMPUTAÇÃO EM NUVEM </a> </td> <td align="center">80</td> <td align="center"> 10 </td> </tr>
+   <tr> <td> <a href="https://github.com/ENGENHARIA-DE-SOFTWARE-UNOPAR/Computacao-em-nuvem-UNOPAR" target="_blank">  COMPUTAÇÃO EM NUVEM </a> </td> <td align="center">80</td> <td align="center"> 10 </td> </tr>
    <tr> <td> GOVERNANÇA DE TECNOLOGIA DA INFORMAÇÃO </td> <td align="center">80</td> <td align="center"> 10 </td> </tr>
    <tr> <td> INTERFACE E USABILIDADE </td> <td align="center">80</td> <td align="center"> 9,9 </td> </tr>
    <tr> <td> <a href="https://github.com/ENGENHARIA-DE-SOFTWARE-UNOPAR/gerenciaBanco" target="_blank"> LINGUAGEM ORIENTADA A OBJETOS </a> </td> <td align="center">80</td> <td align="center"> 10 </td> </tr>
