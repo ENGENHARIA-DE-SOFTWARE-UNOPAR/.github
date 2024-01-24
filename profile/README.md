@@ -40,7 +40,7 @@
    <tr> <td> <a href="https://github.com/ENGENHARIA-DE-SOFTWARE-UNOPAR/NoSQL" target="_blank"> BANCOS DE DADOS NÃO RELACIONAIS </a> </td> <td align="center">60</td> <td align="center"> CURSANDO </td> </tr>
    <tr> <td> <a href="https://github.com/ENGENHARIA-DE-SOFTWARE-UNOPAR/web-project" target="_blank"> PROGRAMAÇÃO WEB </a> </td> <td align="center">80</td> <td align="center"> CURSANDO </td> </tr>
    <tr> <td> <a href="https://github.com/ENGENHARIA-DE-SOFTWARE-UNOPAR/extension-project_I" target="_blank"> PROJETO DE EXTENSÃO I - ENGENHARIA DE SOFTWARE </a> </td> <td align="center">130</td> <td align="center"> CURSANDO </td> </tr>
-   <tr> <td> PROJETO DE SOFTWARE </td> <td align="center">80</td> <td align="center"> FALTA CURSAR </td> </tr>
+   <tr> <td> PROJETO DE SOFTWARE </td> <td align="center">80</td> <td align="center"> CURSANDO </td> </tr>
    <tr> <td> SEGURANÇA E AUDITORIA DE SISTEMAS </td> <td align="center">80</td> <td align="center"> CURSANDO </td> </tr>
    <tr> <td align="right">Total CH </td> <td colspan="2" align="center">510 </td> </tr>
 
