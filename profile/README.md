@@ -74,8 +74,6 @@
 <tr> <td colspan="3" align="center"> <a href="https://github.com/ENGENHARIA-DE-SOFTWARE-UNOPAR/Template-UNOPAR" target="_blank"> Template em LaTeX para relatórios das aulas práticas </td> </tr>
 </table>
 
-
-
 * Disponibilizo a [Matriz Curricular do bacharelado](https://github.com/ENGENHARIA-DE-SOFTWARE-UNOPAR/.github/blob/main/profile/Matriz%20curi.%20-%20ENG%20software.pdf)
 
 
