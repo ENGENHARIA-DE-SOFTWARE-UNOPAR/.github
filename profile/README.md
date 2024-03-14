@@ -14,11 +14,11 @@
    <tr> <td>ENGENHARIA DE SOFTWARE</td> <td align="center">80</td> <td align="center"> 10</td> </tr>
    <tr> <td>LINGUAGEM DE PROGRAMAÇÃO</td> <td align="center">80</td> <td align="center"> 10</td> </tr>
    <tr> <td>LÓGICA COMPUTACIONAL</td> <td align="center">80</td> <td align="center"> 10</td> </tr>
-   <tr> <td>SISTEMAS OPERACIONAIS</td> <td align="center">80</td> <td align="center"> 10</td> </tr>
+   <tr> <td> <a href="https://drive.google.com/file/d/1oZt-NeLX1gIwYpNcHqTeIHQTFJBx5nOV/view?usp=sharing" target='_blank'>SISTEMAS OPERACIONAIS</a> </td> <td align="center">80</td> <td align="center"> 10</td> </tr>
    <tr> <td align="right">Total CH</td> <td colspan="2" align="center">480</td>   </tr>
 
    <tr> <td colspan="3" align="center"> <i>2° Semestre </i> </td> </tr>
-   <tr> <td> <a href='https://drive.google.com/file/d/1vH8hA4ycbjM8Cv680ZIf1Og0MkmHwEcw/view?usp=sharing'> ANÁLISE ORIENTADA A OBJETOS target="_blank" </a> </td> <td align="center">80</td> <td align="center"> 10 </td> </tr>
+   <tr> <td> <a href='https://drive.google.com/file/d/1vH8hA4ycbjM8Cv680ZIf1Og0MkmHwEcw/view?usp=sharing' target="_blank"> ANÁLISE ORIENTADA A OBJETOS  </a> </td> <td align="center">80</td> <td align="center"> 10 </td> </tr>
    <tr> <td> ENGENHARIA DE REQUISITOS </td> <td align="center">80</td> <td align="center"> 8,5 </td> </tr>
    <tr> <td> FUNDAMENTOS DE CÁLCULO APLICADO </td> <td align="center">80</td> <td align="center"> 9,9 </td> </tr>
    <tr> <td> MODELAGEM DE DADOS </td> <td align="center">80</td> <td align="center"> 9,0 </td> </tr>
