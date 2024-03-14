@@ -21,7 +21,7 @@
    <tr> <td> <a href='https://drive.google.com/file/d/1vH8hA4ycbjM8Cv680ZIf1Og0MkmHwEcw/view?usp=sharing' target="_blank"> ANÁLISE ORIENTADA A OBJETOS  </a> </td> <td align="center">80</td> <td align="center"> 10 </td> </tr>
    <tr> <td> ENGENHARIA DE REQUISITOS </td> <td align="center">80</td> <td align="center"> 8,5 </td> </tr>
    <tr> <td> FUNDAMENTOS DE CÁLCULO APLICADO </td> <td align="center">80</td> <td align="center"> 9,9 </td> </tr>
-   <tr> <td> MODELAGEM DE DADOS </td> <td align="center">80</td> <td align="center"> 9,0 </td> </tr>
+   <tr> <td> <a href='https://drive.google.com/file/d/13BeCm5WZ6xepmXQARdatZiK2mfst9URA/view?usp=sharing' target="_blank"> MODELAGEM DE DADOS</a> </td> <td align="center">80</td> <td align="center"> 9,0 </td> </tr>
    <tr> <td> MÉTODOS MATEMÁTICOS </td> <td align="center">60</td> <td align="center"> 10 </td> </tr>
    <tr> <td> SISTEMAS DE COMPUTAÇÃO E DE INFORMAÇÃO </td> <td align="center">80</td> <td align="center"> 9,5 </td> </tr>
    <tr> <td align="right">Total CH </td> <td colspan="2" align="center">460 </td> </tr>
