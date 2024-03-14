@@ -12,7 +12,7 @@
    <tr> <td> <a href="https://github.com/ENGENHARIA-DE-SOFTWARE-UNOPAR/Algoritimo-e-Programacao-Estruturada" target="_blank">  ALGORITMOS E PROGRAMAÇÃO ESTRUTURADA </a></td> <td align="center"> 80</td>  <td align="center"> 10</td> </tr>
    <tr> <td>ANÁLISE E MODELAGEM DE SISTEMAS</td> <td align="center">80</td> <td align="center"> 10</td> </tr>
    <tr> <td>ENGENHARIA DE SOFTWARE</td> <td align="center">80</td> <td align="center"> 10</td> </tr>
-   <tr> <td>LINGUAGEM DE PROGRAMAÇÃO</td> <td align="center">80</td> <td align="center"> 10</td> </tr>
+   <tr> <td> <a href="https://drive.google.com/file/d/1eIlfl4jvaAUEhpHYzVtZfRWxdcStJRyL/view?usp=sharing" target="_blank"> LINGUAGEM DE PROGRAMAÇÃO</a></td> <td align="center">80</td> <td align="center"> 10</td> </tr>
    <tr> <td>LÓGICA COMPUTACIONAL</td> <td align="center">80</td> <td align="center"> 10</td> </tr>
    <tr> <td> <a href="https://drive.google.com/file/d/1oZt-NeLX1gIwYpNcHqTeIHQTFJBx5nOV/view?usp=sharing" target='_blank'>SISTEMAS OPERACIONAIS</a> </td> <td align="center">80</td> <td align="center"> 10</td> </tr>
    <tr> <td align="right">Total CH</td> <td colspan="2" align="center">480</td>   </tr>
