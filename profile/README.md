@@ -88,3 +88,5 @@
 - [x] <a href="https://drive.google.com/file/d/1KmHL0fYWLndupQIxN4GzeJFdmvVj1rec/view?usp=sharing" target="_blank"> Processo da criatividade </a> 60 Horas </br>
 - [x] <a href="https://drive.google.com/file/d/1eH21zc3ljxnA2AaMgr7JGffvX7LefHNy/view?usp=sharing" target="_blank"> Gestão de projetos </a> 120 Horas </br>
 - [x] <a href="https://drive.google.com/file/d/1NP1xhqTYFcjvg5YMa57GEBqEYq9fy83G/view?usp=sharing" target="_blank"> Empreendedorismo e Inovação </a> 120 Horas </br>
+- [x] <a href="https://drive.google.com/file/d/15dXyNuwubGA3E5FsnYk7sgHbH5kDG2jI/view?usp=drive_link" target="_blank"> Empreender Desafios e Oportunidades</a> 60 Horas </br>
+- [x] <a href="https://drive.google.com/file/d/1hYwzq_9zBrXsNm1WPyQ-6pgb9cAgPOG7/view?usp=drive_link" target="_blank"> TECNOLOGIA, DIREITO DIGITAL E PROPRIEDADE INTELECTUAL </a> 120 Horas </br>
