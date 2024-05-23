@@ -93,3 +93,5 @@
 - [ ] <a href="https://drive" target="_blank">Inovação em Gestão de Pessoas </a> xxx Horas </br>
 - [ ] <a href="https://drive" target="_blank">INGLÊS: INCREMENTANDO O VOCABULÁRIO </a> xxx Horas </br>
 - [ ] <a href="https://drive" target="_blank">INGLÊS: VOCABULÁRIO ESSENCIAL </a> xxx Horas </br>
+- [ ] <a href="https://drive" target="_blank">GESTÃO DE PROJETOS DE SUSTENTABILIDADE </a> xxx Horas </br>
+- [ ] <a href="https://drive" target="_blank">COMUNICAÇÃO EM NEGÓCIOS E MÍDIAS SOCIAIS </a> xxx Horas </br>
