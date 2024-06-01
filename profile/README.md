@@ -92,6 +92,6 @@
 - [x] <a href="https://drive.google.com/file/d/1hYwzq_9zBrXsNm1WPyQ-6pgb9cAgPOG7/view?usp=drive_link" target="_blank"> TECNOLOGIA, DIREITO DIGITAL E PROPRIEDADE INTELECTUAL </a> 120 Horas </br>
 - [ ] <a href="https://drive" target="_blank">Inovação em Gestão de Pessoas </a> xxx Horas </br>
 - [ ] <a href="https://drive" target="_blank">INGLÊS: INCREMENTANDO O VOCABULÁRIO </a> xxx Horas </br>
-- [ ] <a href="https://drive" target="_blank">INGLÊS: VOCABULÁRIO ESSENCIAL </a> 120 Horas </br>
+- [ ] <a href="https://drive.google.com/file/d/1MIiTRMBMSNhfUesqfBTDxxnono1ny6u2/view?usp=drive_link" target="_blank">INGLÊS: VOCABULÁRIO ESSENCIAL </a> 120 Horas </br>
 - [ ] <a href="https://drive" target="_blank">GESTÃO DE PROJETOS DE SUSTENTABILIDADE </a> xxx Horas </br>
 - [ ] <a href="https://drive" target="_blank">COMUNICAÇÃO EM NEGÓCIOS E MÍDIAS SOCIAIS </a> xxx Horas </br>
