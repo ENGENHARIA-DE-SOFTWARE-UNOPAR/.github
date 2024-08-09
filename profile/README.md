@@ -90,7 +90,7 @@
 - [x] <a href="https://drive.google.com/file/d/1NP1xhqTYFcjvg5YMa57GEBqEYq9fy83G/view?usp=sharing" target="_blank"> Empreendedorismo e Inovação </a> 120 Horas </br>
 - [x] <a href="https://drive.google.com/file/d/15dXyNuwubGA3E5FsnYk7sgHbH5kDG2jI/view?usp=drive_link" target="_blank"> Empreender Desafios e Oportunidades</a> 60 Horas </br>
 - [x] <a href="https://drive.google.com/file/d/1hYwzq_9zBrXsNm1WPyQ-6pgb9cAgPOG7/view?usp=drive_link" target="_blank"> TECNOLOGIA, DIREITO DIGITAL E PROPRIEDADE INTELECTUAL </a> 120 Horas </br>
-- [ ] <a href="https://drive" target="_blank">Inovação em Gestão de Pessoas </a> xxx Horas </br>
+- [x] <a href="https://drive.google.com/file/d/1Ju2RZ7MbVNRIumbhDU7l-j-fhNQeU5Gi/view?usp=sharing" target="_blank">Inovação em Gestão de Pessoas </a> 120 Horas </br>
 - [ ] <a href="https://drive" target="_blank">INGLÊS: INCREMENTANDO O VOCABULÁRIO </a> xxx Horas </br>
 - [x] <a href="https://drive.google.com/file/d/1MIiTRMBMSNhfUesqfBTDxxnono1ny6u2/view?usp=drive_link" target="_blank">INGLÊS: VOCABULÁRIO ESSENCIAL </a> 120 Horas </br>
 - [ ] <a href="https://drive" target="_blank">GESTÃO DE PROJETOS DE SUSTENTABILIDADE </a> xxx Horas </br>
