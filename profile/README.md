@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+
 # Engenharia de Software - UNOPAR 
 
 - Organização criada para armazenar codificações e relátorio das unidades curriculares do bacharelado em __Engenharia de Software__, este bacharelado é ofertado na modalidade de ensino a distância (EAD), neste caso expecifíco pelo polo de Maravilha/SC. 🧙
@@ -83,13 +85,13 @@
 <p align="justify"> São atividades extracurriculares não obrigatórias disponibilizadas no AVA para o aluno desenvolver habilidades complementares e se tornar o profissional que o mercado procura. </p>
 
 
-- [x] <a href="https://drive.google.com/file/d/1d5MI1Je83O1R-ZshPjR9ALq4nda7EkeS/view?usp=sharing" target="_blank"> IoT e Programação de sensores </a> 30 Horas </br>
-- [x] <a href="https://drive.google.com/file/d/1WLgOo77Q3zU3lo5QijTAqltP6epdqMhX/view?usp=sharing" target="_blank"> Análise de dados com Python </a> 40 Horas </br>
+- [x] <a href="https://drive.google.com/file/d/1d5MI1Je83O1R-ZshPjR9ALq4nda7EkeS/view?usp=sharing" target="_blank"> IoT e Programação de sensores </a> 30 Horas &#128065; </br>
+- [x] <a href="https://drive.google.com/file/d/1WLgOo77Q3zU3lo5QijTAqltP6epdqMhX/view?usp=sharing" target="_blank"> Análise de dados com Python </a> 40 Horas &#128065; </br>
 - [x] <a href="https://drive.google.com/file/d/1KmHL0fYWLndupQIxN4GzeJFdmvVj1rec/view?usp=sharing" target="_blank"> Processo da criatividade </a> 60 Horas </br>
 - [x] <a href="https://drive.google.com/file/d/1eH21zc3ljxnA2AaMgr7JGffvX7LefHNy/view?usp=sharing" target="_blank"> Gestão de projetos </a> 120 Horas </br>
 - [x] <a href="https://drive.google.com/file/d/1NP1xhqTYFcjvg5YMa57GEBqEYq9fy83G/view?usp=sharing" target="_blank"> Empreendedorismo e Inovação </a> 120 Horas </br>
 - [x] <a href="https://drive.google.com/file/d/15dXyNuwubGA3E5FsnYk7sgHbH5kDG2jI/view?usp=drive_link" target="_blank"> Empreender Desafios e Oportunidades</a> 60 Horas </br>
-- [x] <a href="https://drive.google.com/file/d/1hYwzq_9zBrXsNm1WPyQ-6pgb9cAgPOG7/view?usp=drive_link" target="_blank"> TECNOLOGIA, DIREITO DIGITAL E PROPRIEDADE INTELECTUAL </a> 120 Horas </br>
+- [x] <a href="https://drive.google.com/file/d/1hYwzq_9zBrXsNm1WPyQ-6pgb9cAgPOG7/view?usp=drive_link" target="_blank"> TECNOLOGIA, DIREITO DIGITAL E PROPRIEDADE INTELECTUAL </a> 120 Horas &#10003; </br>
 - [x] <a href="https://drive.google.com/file/d/1Ju2RZ7MbVNRIumbhDU7l-j-fhNQeU5Gi/view?usp=sharing" target="_blank">Inovação em Gestão de Pessoas </a> 120 Horas </br>
 - [ ] <a href="https://drive" target="_blank">INGLÊS: INCREMENTANDO O VOCABULÁRIO </a> xxx Horas </br>
 - [x] <a href="https://drive.google.com/file/d/1MIiTRMBMSNhfUesqfBTDxxnono1ny6u2/view?usp=drive_link" target="_blank">INGLÊS: VOCABULÁRIO ESSENCIAL </a> 120 Horas </br>
