@@ -48,11 +48,11 @@
    <tr> <td align="right">Total CH </td> <td colspan="2" align="center">510 </td> </tr>
 
 <tr> <td colspan="3" align="center"> <i>5° Semestre </i> </td> </tr>
-   <tr> <td> FRAMEWORKS PARA DESENVOLVIMENTO DE SOFTWARE </td> <td align="center">60</td> <td align="center"> CURSANDO </td> </tr>
-   <tr> <td> GERENCIAMENTO E QUALIDADE DE SOFTWARE </td> <td align="center">80</td> <td align="center"> CURSANDO </td> </tr>
-   <tr> <td> IMPLEMENTAÇÃO DE PROJETO WEB </td> <td align="center">60</td> <td align="center"> CURSANDO </td> </tr>
-   <tr> <td> INFRAESTRUTURA ÁGIL </td> <td align="center">60</td> <td align="center"> CURSANDO </td> </tr>
-   <tr> <td> <a href="https://github.com/ENGENHARIA-DE-SOFTWARE-UNOPAR/data-structure-in-python" target="_blank"> OPTATIVA I (Estrutura de Dados)</a> </td> <td align="center">60</td> <td align="center"> CURSANDO </td> </tr>
+   <tr> <td> FRAMEWORKS PARA DESENVOLVIMENTO DE SOFTWARE </td> <td align="center">60</td> <td align="center"> 10 </td> </tr>
+   <tr> <td> GERENCIAMENTO E QUALIDADE DE SOFTWARE </td> <td align="center">80</td> <td align="center"> 10 </td> </tr>
+   <tr> <td> IMPLEMENTAÇÃO DE PROJETO WEB </td> <td align="center">60</td> <td align="center"> 9,7 </td> </tr>
+   <tr> <td> INFRAESTRUTURA ÁGIL </td> <td align="center">60</td> <td align="center"> 8,4 </td> </tr>
+   <tr> <td> <a href="https://github.com/ENGENHARIA-DE-SOFTWARE-UNOPAR/data-structure-in-python" target="_blank"> OPTATIVA I (Estrutura de Dados)</a> </td> <td align="center">60</td> <td align="center"> 10 </td> </tr>
    <tr> <td align="right">Total CH </td> <td colspan="2" align="center"> 320 </td> </tr>
 
 <tr> <td colspan="3" align="center"> <i>6° Semestre </i> </td> </tr>
