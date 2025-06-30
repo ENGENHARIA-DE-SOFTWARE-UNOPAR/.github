@@ -56,12 +56,12 @@
    <tr> <td align="right">Total CH </td> <td colspan="2" align="center"> 320 </td> </tr>
 
 <tr> <td colspan="3" align="center"> <i>6° Semestre </i> </td> </tr>
-   <tr> <td> DESENVOLVIMENTO DE E-COMMERCE COM CMS </td> <td align="center">80</td> <td align="center"> CURSANDO </td> </tr>
-   <tr> <td> DESENVOLVIMENTO MOBILE </td> <td align="center">80</td> <td align="center"> CURSANDO </td> </tr>
-   <tr> <td> OPTATIVA II (Criptografia) </td> <td align="center">60</td> <td align="center"> CURSANDO </td> </tr>
-   <tr> <td> PROJETO DE EXTENSÃO II - ENGENHARIA DE SOFTWARE </td> <td align="center">130</td> <td align="center"> CURSANDO </td> </tr>
-   <tr> <td> SEGURANÇA EM ENGENHARIA DE SOFTWARE </td> <td align="center">80</td> <td align="center"> CURSANDO </td> </tr>
-   <tr> <td> TESTES E MANUTENÇÃO DE SOFTWARE </td> <td align="center">80</td> <td align="center"> CURSANDO </td> </tr>
+   <tr> <td> DESENVOLVIMENTO DE E-COMMERCE COM CMS </td> <td align="center">80</td> <td align="center"> 10 </td> </tr>
+   <tr> <td> DESENVOLVIMENTO MOBILE </td> <td align="center">80</td> <td align="center"> 10 </td> </tr>
+   <tr> <td> OPTATIVA II (Criptografia) </td> <td align="center">60</td> <td align="center"> 10 </td> </tr>
+   <tr> <td> PROJETO DE EXTENSÃO II - ENGENHARIA DE SOFTWARE </td> <td align="center">130</td> <td align="center"> 9,2 </td> </tr>
+   <tr> <td> SEGURANÇA EM ENGENHARIA DE SOFTWARE </td> <td align="center">80</td> <td align="center"> 10 </td> </tr>
+   <tr> <td> TESTES E MANUTENÇÃO DE SOFTWARE </td> <td align="center">80</td> <td align="center"> 10 </td> </tr>
    <tr> <td align="right">Total CH </td> <td colspan="2" align="center">510 </td> </tr>
 
 <tr> <td colspan="3" align="center"> <i>7° Semestre </i> </td> </tr>
@@ -95,5 +95,5 @@
 - [x] <a href="https://drive.google.com/file/d/1Ju2RZ7MbVNRIumbhDU7l-j-fhNQeU5Gi/view?usp=sharing" target="_blank">Inovação em Gestão de Pessoas </a> 120 Horas &#10003; </br>
 - [ ] <a href="https://drive" target="_blank">INGLÊS: INCREMENTANDO O VOCABULÁRIO </a> xxx Horas </br>
 - [x] <a href="https://drive.google.com/file/d/1MIiTRMBMSNhfUesqfBTDxxnono1ny6u2/view?usp=drive_link" target="_blank">INGLÊS: VOCABULÁRIO ESSENCIAL </a> 120 Horas &#10003; </br>
-- [ ] <a href="https://drive" target="_blank">GESTÃO DE PROJETOS DE SUSTENTABILIDADE </a> xxx Horas </br>
+- [x] <a href="https://drive" target="_blank">GESTÃO DE PROJETOS DE SUSTENTABILIDADE </a> 120 Horas &#128065; </br>
 - [x] <a href="https://drive.google.com/file/d/1MaA9TUa2WogjlAL5fYfkYvHDQ8k3LWlJ/view?usp=drive_link" target="_blank">COMUNICAÇÃO EM NEGÓCIOS E MÍDIAS SOCIAIS </a> 180 Horas &#10003; </br>
