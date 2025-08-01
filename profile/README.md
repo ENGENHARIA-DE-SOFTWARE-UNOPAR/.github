@@ -69,7 +69,7 @@
    <tr> <td> DIREITO CIBERNÉTICO </td> <td align="center">80</td> <td align="center"> CURSANDO </td> </tr>
    <tr> <td> EMPREENDEDORISMO E INOVAÇÃO </td> <td align="center">60</td> <td align="center"> CURSANDO </td> </tr>
    <tr> <td> ENGENHARIA, CIÊNCIA E TECNOLOGIA</td> <td align="center">80</td> <td align="center"> CURSANDO </td> </tr>
-   <tr> <td> REDES E SISTEMAS DISTRIBUÍDOS </td> <td align="center">80</td> <td align="center"> CURSANDO </td> </tr>
+   <tr> <td> <a href="https://github.com/ENGENHARIA-DE-SOFTWARE-UNOPAR/redes_sistemas_distribuidos" target="_blank"> REDES E SISTEMAS DISTRIBUÍDOS</a>  </td> <td align="center">80</td> <td align="center"> CURSANDO </td> </tr>
    <tr> <td> SOCIEDADE BRASILEIRA E CIDADANIA </td> <td align="center">60</td> <td align="center"> CURSANDO </td> </tr>
    <tr> <td align="right">Total CH </td> <td colspan="2" align="center">420 </td> </tr>
 
