@@ -95,5 +95,5 @@
 - [x] <a href="https://drive.google.com/file/d/1Ju2RZ7MbVNRIumbhDU7l-j-fhNQeU5Gi/view?usp=sharing" target="_blank">Inovação em Gestão de Pessoas </a> 120 Horas &#10003; </br>
 - [ ] <a href="https://drive" target="_blank">INGLÊS: INCREMENTANDO O VOCABULÁRIO </a> xxx Horas </br>
 - [x] <a href="https://drive.google.com/file/d/1MIiTRMBMSNhfUesqfBTDxxnono1ny6u2/view?usp=drive_link" target="_blank">INGLÊS: VOCABULÁRIO ESSENCIAL </a> 120 Horas &#10003; </br>
-- [x] <a href="https://drive" target="_blank">GESTÃO DE PROJETOS DE SUSTENTABILIDADE </a> 120 Horas &#128065; </br>
+- [x] <a href="https://drive" target="_blank">GESTÃO DE PROJETOS DE SUSTENTABILIDADE </a> 120 Horas &#10003; </br>
 - [x] <a href="https://drive.google.com/file/d/1MaA9TUa2WogjlAL5fYfkYvHDQ8k3LWlJ/view?usp=drive_link" target="_blank">COMUNICAÇÃO EM NEGÓCIOS E MÍDIAS SOCIAIS </a> 180 Horas &#10003; </br>
