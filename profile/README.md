@@ -93,7 +93,7 @@
 - [x] <a href="https://drive.google.com/file/d/15dXyNuwubGA3E5FsnYk7sgHbH5kDG2jI/view?usp=drive_link" target="_blank"> Empreender Desafios e Oportunidades</a> 60 Horas &#10003; </br>
 - [x] <a href="https://drive.google.com/file/d/1hYwzq_9zBrXsNm1WPyQ-6pgb9cAgPOG7/view?usp=drive_link" target="_blank"> TECNOLOGIA, DIREITO DIGITAL E PROPRIEDADE INTELECTUAL </a> 120 Horas &#10003; </br>
 - [x] <a href="https://drive.google.com/file/d/1Ju2RZ7MbVNRIumbhDU7l-j-fhNQeU5Gi/view?usp=sharing" target="_blank">Inovação em Gestão de Pessoas </a> 120 Horas &#10003; </br>
-- [ ] <a href="https://drive" target="_blank">INGLÊS: INCREMENTANDO O VOCABULÁRIO </a> 120 Horas </br>
+- [x] <a href="https://drive" target="_blank">INGLÊS: INCREMENTANDO O VOCABULÁRIO </a> 120 Horas &#128065; </br>
 - [x] <a href="https://drive.google.com/file/d/1MIiTRMBMSNhfUesqfBTDxxnono1ny6u2/view?usp=drive_link" target="_blank">INGLÊS: VOCABULÁRIO ESSENCIAL </a> 120 Horas &#10003; </br>
 - [x] <a href="https://drive" target="_blank">GESTÃO DE PROJETOS DE SUSTENTABILIDADE </a> 120 Horas &#10003; </br>
 - [x] <a href="https://drive.google.com/file/d/1MaA9TUa2WogjlAL5fYfkYvHDQ8k3LWlJ/view?usp=drive_link" target="_blank">COMUNICAÇÃO EM NEGÓCIOS E MÍDIAS SOCIAIS </a> 180 Horas &#10003; </br>
