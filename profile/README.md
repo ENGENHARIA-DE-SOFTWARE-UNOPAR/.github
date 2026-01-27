@@ -99,3 +99,4 @@
 - [x] <a href="https://drive.google.com/file/d/1MIiTRMBMSNhfUesqfBTDxxnono1ny6u2/view?usp=drive_link" target="_blank">INGLÊS: VOCABULÁRIO ESSENCIAL </a> 120 Horas &#10003; </br>
 - [x] <a href="https://drive.google.com/file/d/1heUoNI2CUiJiWjmv-CV3B_mlNojhoR8N/view?usp=drive_link" target="_blank">GESTÃO DE PROJETOS DE SUSTENTABILIDADE </a> 120 Horas &#10003; </br>
 - [x] <a href="https://drive.google.com/file/d/1MaA9TUa2WogjlAL5fYfkYvHDQ8k3LWlJ/view?usp=drive_link" target="_blank">COMUNICAÇÃO EM NEGÓCIOS E MÍDIAS SOCIAIS </a> 180 Horas &#10003; </br>
+- [x] <a href="https://drive.google.com/file/d/1A08VBs7Yb_iJCVU8mZIDHqmidgzqeHqu/view?usp=drive_link" target="_blank">ARGUMENTAÇÃO E ANÁLISE DE DISCURSO </a> 120 Horas &#10003; </br>
