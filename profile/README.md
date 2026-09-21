@@ -67,7 +67,7 @@
    <tr> <td align="right">Total CH </td> <td colspan="2" align="center">510 </td> </tr>
 
 <tr> <td colspan="3" align="center"> <i>7° Semestre </i> </td> </tr>
-   <tr> <td> ARQUITETURA E ORGANIZAÇÃO DE COMPUTADORES </td> <td align="center">60</td> <td align="center"> CURSANDO </td> </tr>
+   <tr> <td> ARQUITETURA E ORGANIZAÇÃO DE COMPUTADORES </td> <td align="center">60</td> <td align="center"> 10 </td> </tr>
    <tr> <td> DIREITO CIBERNÉTICO </td> <td align="center">80</td> <td align="center"> 10 </td> </tr>
    <tr> <td> EMPREENDEDORISMO E INOVAÇÃO </td> <td align="center">60</td> <td align="center"> 10 </td> </tr>
    <tr> <td> ENGENHARIA, CIÊNCIA E TECNOLOGIA</td> <td align="center">80</td> <td align="center"> 9,9 </td> </tr>
